@@ -1,7 +1,5 @@
-import React from 'react';
-
 export default function RegisterPage() {
-  return (
-    <div>Tela de Registro</div>
-  )
+    return (
+        <div>Tela de Registro</div>
+    )
 }
